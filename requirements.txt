@@ -1,0 +1,27 @@
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Async HTTP client (replaces requests)
+httpx==0.25.0
+
+# Rate limiting
+slowapi==0.1.9
+
+# Environment variables
+python-dotenv==1.0.0
+
+# For async support
+nest-asyncio==1.5.8
+
+# Existing source dependencies (keep as-is)
+lyricsgenius
+ytmusicapi
+beautifulsoup4
+requests
+# XML parsing (built-in, but listed for clarity)
+# xml.etree.ElementTree is built-in
+
+# Optional: Connection pooling and performance
+httpcore
