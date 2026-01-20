@@ -2,7 +2,7 @@
 
 ![Made in India](https://img.shields.io/badge/Made%20in-India-blue.svg) ![Python](https://img.shields.io/badge/Python-3.12%2B-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg) ![Flask](https://img.shields.io/badge/Flask-3.0.0-blue.svg) ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-A powerful, open-source RESTful API for retrieving song lyrics with advanced features like mood analysis, timestamped lyrics, metadata extraction, and multi-source aggregation. Built with Python and Flask, optimized for Bollywood and global music queries.
+A powerful, open-source RESTful API for retrieving song lyrics with advanced features like mood analysis, timestamped lyrics, metadata extraction, and multi-source aggregation. Built with Python and Fastapi, optimized for Bollywood and global music queries.
 
 ## ✨ Key Features
 
